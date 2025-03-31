@@ -1,6 +1,7 @@
-===================
+Dokumentacja projektu zse-4TPHS-rtd
+===================================
 
-Witamy w dokumentacji!
+Witamy w dokumentacji Read the Docs.
 
 .. toctree::
    :maxdepth: 2
