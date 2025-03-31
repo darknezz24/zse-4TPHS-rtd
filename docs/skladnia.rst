@@ -68,10 +68,10 @@ Pojęcie
 Obraz
 -----
 
-.. image:: obrazek.png
-   :alt: Alternatywny opis
+.. image:: https://www.doi.gov/sites/default/files/content_images//uploads/hawksbill_sea_turtle_-_usfws_southeast_-_photo_by_caroline_s._rogers.jpg
+   :alt: Żółw morski
    :align: center
-   :width: 300px
+   :width: 400px
 
 Tabela
 ------
